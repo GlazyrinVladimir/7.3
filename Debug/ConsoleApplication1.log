@@ -1,0 +1,16 @@
+﻿Сборка начата 19.12.2015 18:44:00.
+     1>Проект "C:\lab 7.3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\VS\VC\bin\CL.exe /c /I"C:\SFML-Visual_Studio2015RCx32\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D "SFML-DYNAMIC" /D Win32 /D _DEBUG /D _CONSOLE /D _LIB_UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\lab 7.3\consoleapplication1\consoleapplication1\main.cpp(25): warning C4244: аргумент: преобразование "const int" в "float", возможна потеря данных
+     1>c:\lab 7.3\consoleapplication1\consoleapplication1\main.cpp(48): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\lab 7.3\consoleapplication1\consoleapplication1\main.cpp(49): warning C4305: инициализация: усечение из "double" к "float"
+       Link:
+         C:\Program Files (x86)\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\lab 7.3\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-Visual_Studio2015RCx32\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\lab 7.3\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\lab 7.3\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\main.obj
+         ConsoleApplication1.vcxproj -> C:\lab 7.3\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Сборка проекта "C:\lab 7.3\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.14
